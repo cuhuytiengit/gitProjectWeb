@@ -1,0 +1,754 @@
+
+    *{
+        margin:0px;
+        padding:0px;
+    }
+    .clr{
+        clear:both;
+    }
+    .block {
+       width:100%;
+       height: 100px; 
+       line-height:100px;
+       text-align:center;
+       
+    }
+    .menu a{
+        text-decoration: none;
+        color: #000;
+    }
+    #tranform_scale{
+        width: 100px;
+        height:100px;
+        transition: 1s
+    }
+    #tranform_scale:hover{
+        transform:scale(1.2,1.5);
+    }
+    #tranform_scale{
+        width: 150px;
+        height:100px;
+        transition: 1s
+    }
+    #tranform_scale:hover{
+        transform:scale(1.2,1.5);
+    }
+    #tranform_scale{
+        width: 150px;
+        height:100px;
+        transition: 1s
+    }
+    #tranform_scale:hover{
+        transform:scale(1.2,1.5);
+    }
+   
+    .block1{
+        width:100%;
+        height: 650px;
+        line-height: 20px;
+     
+       
+    }
+    .doan1 {
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -250px;
+        right: 30px;
+        bottom: 40px;
+        left: 690px;
+    }
+    .doan2{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -170px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+    }
+
+    .doan3{
+
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -450px;
+        right: 30px;
+        bottom: 40px;
+        left: 890px;
+    }
+	 .doan4 {
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -250px;
+        right: 30px;
+        bottom: 40px;
+        left: 690px;
+    }
+    .doan5{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -170px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+    }
+
+    .doan6{
+
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -450px;
+        right: 30px;
+        bottom: 40px;
+        left: 890px;
+    }
+  
+   .doan7 {
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -170px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+        }
+    .doan8{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -90px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+    }
+
+    .doan9{
+
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+		line-height:20px;
+        position: relative;
+        top: -370px;
+        right: 30px;
+        bottom: 40px;
+        left: 890px;
+    }
+  
+    .box{
+		top: 20px;
+		left:150PX;
+		position:absolute;
+	  }
+
+    .boxA{
+       background-color: #fef9d0;
+        
+    }
+
+    .boxC{
+   background-image:url(../IMG/hinhanhcauchuyen.jpg);
+    }
+    .boxD{
+       background-image:url(../IMG/hinhanhchungtoilamgi.jpg);
+     }
+      .boxF{
+        background-image:url(../IMG/dieugi2.jpg);
+     }
+	   .boxI{
+        background-image:url(../IMG/hinhnen500px.jpg);
+     }
+  
+     .boxK{
+      background-image:url(../IMG/hoaqua.jpg);
+     }
+          .boxL{
+       background-image:url(../IMG/Untitled-2.jpg);
+		  }
+
+    .menu {
+        list-style:none;
+        margin : -2px;
+        display:inline-block;
+        *display : inline;
+        
+    }
+    .block1  div1{  
+        margin-top: 30px;
+    }
+    .menu li{
+        margin-bottom:2px;
+        padding: 3px 3px 3px 15px;
+        float:left;
+        width:150px;
+        text-align:right;
+        margin-right:15px;
+        font-weight: bold;    
+    }
+	
+	
+	 .block2{
+        width:100%;
+        height: 450px;
+        line-height: 20px;
+     
+       
+    }
+    .tieude1{
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 30px;
+        position: relative;
+        top: 70px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+
+    .image1{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 50px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+    .image2{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 140px;
+        right: 30px;
+        bottom: 40px;
+        left: 450px;
+    }
+    .image3{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 210px;
+        right: 30px;
+        bottom: 40px;
+        left: 530px;
+    }
+	.par1{
+		 width: 100%;
+        height: 100px;
+        position: relative;
+		font-size:24px;
+        top: -280px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+		
+		
+	}
+	.par2{
+		 width: 100%;
+        height: 100px;
+        position: relative;
+		font-size:24px;
+        top: -280px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+		
+		
+	}
+
+	
+	
+	 .block3{
+        width:100%;
+        height: 200px;
+        line-height: 20px;
+     
+       
+    }
+	.cachchungtoibatdau{
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 40px;
+        position: relative;
+        top: 70px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+ 
+	
+	 .block4{
+        width:100%;
+        height: 1200px;
+        line-height: 20px;
+       
+    }
+    .tieude3{
+        width: 100%;
+        height: 100px;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: 70px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+	  .tieude4{
+        width: 100%;
+        height: 100px;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: 110px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+     .imgcaidia{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 230px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+	   .imgnenden{
+        width: 100%;
+        height: 100px;
+		position:relative;
+		float:right;
+        top: -300px;
+        right: 30px;
+        bottom: 40px;
+        left: 1020px;
+    }
+    .image7{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 50px;
+        right: 30px;
+        bottom: 40px;
+        left: 190px;
+    }
+    .image8{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 150px;
+        right: 30px;
+        bottom: 40px;
+        left: 490px;
+    }
+     
+	 
+	  .block5{
+        width:100%;
+        height: 800px;
+        line-height: 20px;
+       
+    }
+	.dieugitotchoban10{
+	     	
+		 width: 100%;
+        height: 100px;
+        font-size: 30px;
+		color:#FFF;
+	    text-align:right;
+        font-weight: bold;
+        line-height: 40px;
+        position: relative;
+        top: 230px;
+        right: 30px;
+        bottom: 40px;
+        left: -300px;
+		
+	}
+	.block6{
+	   	 width:100%;
+        height:  200px;
+        line-height: 20px;
+		
+	}
+    .blockanhzoom1{
+        width: 200px;
+        height: 200px;
+        border: aqua solid;
+        position: relative;
+        top: 150px;
+        right: 30px;
+        bottom: 40px;
+        left: 230px;
+       
+    }
+  
+
+    .blockanhzoom2{
+        width: 200px;
+        height: 200px;
+        border: aqua solid;
+        position: relative;
+        top: -54px;
+        right: 30px;
+        bottom: 40px;
+        left: 510px;
+    }
+
+
+  
+    .blockanhzoom3{
+        width: 200px;
+        height: 200px;
+        border: aqua solid;
+        position: relative;
+        top: -257px;
+        right: 30px;
+        bottom: 40px;
+        left: 800px;
+    }
+    .blockanhzoom4{
+        width: 200px;
+        height: 200px;
+        border: aqua solid;
+        position: relative;
+        top: -460px;
+        right: 30px;
+        bottom: 40px;
+        left: 1080px;
+    }
+
+     .vigiac{
+		  width: 100%;
+        height: 100px;
+        font-size: 20px;
+	    text-align:center;
+        line-height: 30px;
+        position: relative;
+        top: 40px;
+        right: 30px;
+        bottom: 40px;
+        left: -50px;
+		 
+	 }
+    
+	 
+	 	.block7{
+	   	 width:100%;
+        height:  600px;
+        line-height: 20px;
+		
+	}
+	
+    .img01{
+		  width: 100%;
+        height: 100px;
+        position: relative;
+        top: 40px;
+        right: 30px;
+        bottom: 40px;
+        left: 1050px;
+		 
+	 }
+	   .img02{
+		  width: 100%;
+        height: 100px;
+        position: relative;
+        top: -60px;
+        right: 30px;
+        bottom: 40px;
+        left: 560px;
+		 
+	 }
+	  .img03{
+		  width: 100%;
+        height: 100px;
+        position: relative;
+        top: -560px;
+        right: 30px;
+        bottom: 40px;
+        left: 80px;
+		 
+	 }
+	 
+	 .block8{
+        width:100%;
+        height: 600px;
+        line-height: 20px;
+       
+    }
+		.bancanmotchutcamhunghomnay{
+        width: 100%;
+        height: 100px;
+		color:#000;
+		text-align:center;
+		font-weight:bold;
+        font-size: 50px;
+        line-height: 30px;
+        position: relative;
+        top: 90px;
+        
+    }
+    .block9{
+        width:100%;
+        height: 750px;
+        line-height: 20px;  
+    }
+	.img010{
+	    	
+		  width: 100%;
+        height: 100px;
+        position: relative;
+        top: 0px;
+        right: 30px;
+        bottom: 40px;
+        left: 360px;
+		
+		
+		
+	}
+		.buoisang{
+        width: 100%;
+        height: 100px;
+        font-size: 60px;
+        font-weight: bold;
+        line-height: 60px;
+        position: relative;
+		text-align:center;
+        top: -600px;
+        right: 30px;
+        bottom: 40px;
+        left: -370px;
+    }
+
+        	.ndbuoisang{
+        width: 100%;
+        height: 100px;
+        font-size: 25px;
+        line-height: 25px;
+		text-align:center;
+        position: relative;
+        top: -480px;
+        right: 30px;
+        bottom: 40px;
+        left: -370px;
+    }
+	
+	
+	 .block10{
+        width:100%;
+        height: 750px;
+        line-height: 20px;  
+    }
+	.imgcachua{
+	    	
+		  width: 100%;
+        height: 100px;
+        position: relative;
+        top: 0px;
+        right: 30px;
+        bottom: 40px;
+        left: 745px;
+		
+	}
+	.ndcachua{
+        width: 100%;
+        height: 100px;
+        font-size: 40px;
+        font-weight: bold;
+        line-height: 40px;
+        position: relative;
+		text-align:justify;
+        top: 110px;
+        right: 30px;
+        bottom: 40px;
+        left: 60px;
+    }
+		.ndcachua1{
+        width: 100%;
+        height: 100px;
+        font-size: 25px;
+        line-height: 25px;
+        position: relative;
+		text-align:justify;
+        top: 170px;
+        right: 30px;
+        bottom: 40px;
+        left: 60px;
+    }
+		 .block12{
+        width:100%;
+        height: 750px;
+        line-height: 20px;  
+    }
+		.ndtapyoga{
+        width: 100%;
+        height: 100px;
+        font-size: 40px;
+        font-weight: bold;
+        line-height: 40px;
+        position: relative;
+		text-align:right;
+        top: -500px;
+        right: 30px;
+        bottom: 40px;
+        left: -100px;
+    }
+		.ndtapyoga1{
+        width: 100%;
+        height: 100px;
+        font-size: 25px;
+        line-height: 25px;
+        position: relative;
+		text-align:right;
+        top: -470px;
+        right: 30px;
+        bottom: 40px;
+        left: -100px;
+    }
+
+	
+	
+
+	.block11{
+        width: 100%;
+        height: 500px;
+         background-color:  #fef9d0;
+		
+    }
+	 
+	 
+	 .footer1{
+        width: 100%;
+        height: 100px;
+		color:#000;
+		font-weight:bold;
+        font-size: 30px;
+        line-height: 30px;
+        position: relative;
+        top: 90px;
+		left: 50px;
+        
+    }
+	 .footer2{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+        line-height: 30px;
+		font-weight:bold;
+        position: relative;
+        top: -7px;
+		left: 520px;
+        
+    }
+	
+	.footer3{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+        line-height: 30px;
+		font-weight:bold;
+        position: relative;
+        top: -107px;
+		left: 750px;
+        
+    }
+
+    .footer4{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+		font-weight:bold;
+        line-height: 30px;
+        position: relative;
+        top: -207px;
+		left: 1000px;
+        
+    }
+	 .footer5{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -150px;
+		left: 50px;
+        
+    }
+	.footer6{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -370px;
+		left: 520px;
+        
+    }
+    .footer6 a{
+        text-decoration: none;
+        color: #000;
+    }
+    .footer7{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -470px;
+		left: 750px;
+        
+    }
+    .footer7 a{
+        text-decoration: none;
+        color: #000;
+    }
+    .footer8{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -570px;
+		left: 1000px;
+        
+    }
+
+
+
+
+

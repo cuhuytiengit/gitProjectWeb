@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link rel= "stylesheet" href="./CSS/cauchuyen.css">
+
+</head>
+   
+<body>
+      <div  class="block boxA">
+		  <div class="box"><img src="IMG/Youtube-01.png" width="120px" height="50px" alt=""></div>
+        <ul class="menu">
+            
+            <li>THỰC ĐƠN</li>
+            <li >CÂU CHUYỆN</li>
+            <li>TẠI SAO LÀ BON</li>
+            <li>TÌM CHÚNG TÔI</li>
+        
+
+       </ul>
+ 
+      </div> 
+     
+        
+      <div  class="block2 boxC">
+           
+  
+      </div>
+      
+      
+   
+      
+      
+      <div  class="block3 boxD">
+      
+             <div class="cachchungtoibatdau">
+                CÁCH CHÚNG <br />TÔI BẮT ĐẦU
+            </div>
+      </div>
+      
+      <div  class="block4 boxE">
+       <div class="tieude3">
+                 Bữa ăn đầu tiên trong ngày, thường là vào buổi sáng sau khi <br />
+                 thức dậy với thực đơn thường gồm những món thức ăn <br />
+                 nhanh, nhẹ kèm theo các món tráng miệng và giải khát như<br /> 
+                 trà, sữa, cà phê, nước giải khát. 
+            </div>
+            <div class="tieude4">
+  Chúng tôi bắt đầu hành trình tìm kiếm những nguyên liệu, công <br />
+thức mới mang đến hương vị đặc sắc. Bắt đầu đặt ra tiêu chí <br />
+cho mình, khi đáp ứng đầy đủ những tiêu chí đó mới tạo ra <br /> 
+bánh C'est Bon. Cứ thế những hương vị của tôi dần trở nên  <br />
+ngon hơn & được nhiều người đón nhận hơn. Chắc bạn đang  <br />
+thắc mắc hương vị đó như thế nào phải không?
+            
+      </div>
+        
+      <div class="imgcaidia">
+      </div>
+  
+            
+      </div>
+      
+       
+      
+      
+        <div  class="block11 boxM">
+           <div class="footer1">
+              VỀ CHÚNG TA
+   
+            </div>
+            <div class="footer2">
+                  HƯỚNG DẪN
+                   
+            </div>
+              <div class="footer3">
+                ĐIỀU KHOẢN 
+   
+            </div>
+              <div class="footer4">
+                  ĐĂNG KÍ VỚI BON
+                    
+            </div>
+             <div class="footer5">
+                628 Lê Văn Lương, Phường Tân Phong, Quận 7, Tp.HCM<br/>
+                Hộ kinh doanh Lê Triệu Hoàng Anh, GPKD số 41A8040940 ngày 19/03/2018 bởi UBND quận 7,<br/> 
+                 Tp.HCM<br/>
+                  038 7376 888 - 038 7376 888<br/>
+                   hi@C'estbon.com
+                    
+            </div>
+            
+            <div class="footer6">
+             Hướng dẫn mua hàng
+            </div>
+            <div class="footer7">
+              Chính sách<br/>
+              Khiếu nại - Gợi ý
+                     
+                     
+             </div>
+             <div class="footer8">
+              Đăng kí Email của bạn dưới đây để nhận những<br/>
+               thông tin về các chương trình khuyến mãi mới nhất<br/>
+                từ C'est bon!
+                     
+             </div>
+      
+              
+       </div>
+      <div class="clr"></div>
+
+</body>
+</html>

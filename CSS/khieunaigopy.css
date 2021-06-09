@@ -1,0 +1,314 @@
+
+    *{
+        margin:0px;
+        padding:0px;
+    }
+    .clr{
+        clear:both;
+    }
+    .block {
+       width:100%;
+       height: 100px; 
+       line-height:100px;
+       text-align:center;
+       
+    }
+    .menu a{
+        text-decoration: none;
+        color: #000;
+    }
+    #tranform_scale{
+        width: 100px;
+        height:100px;
+        transition: 1s
+    }
+    #tranform_scale:hover{
+        transform:scale(1.2,1.5);
+    }
+    #tranform_scale{
+        width: 150px;
+        height:100px;
+        transition: 1s
+    }
+    #tranform_scale:hover{
+        transform:scale(1.2,1.5);
+    }
+    #tranform_scale{
+        width: 150px;
+        height:100px;
+        transition: 1s
+    }
+    #tranform_scale:hover{
+        transform:scale(1.2,1.5);
+    }
+    .box{
+		top: 20px;
+		left:150PX;
+		position:absolute;
+	  }
+
+    .boxA{
+       background-color:#fef9d0;
+        
+    }
+	
+    .boxC{
+        background-color: #fef9d0;
+         
+     }
+    .boxD{
+	   background-image:url(file:///D|/codewebPROJECT/IMG/khieunaigopy111111.jpg)	
+		
+	}
+
+    .menu {
+        list-style:none;
+        margin : -2px;
+        display:inline-block;
+        *display : inline;
+        
+    }
+    .block1  div1{  
+        margin-top: px;
+    }
+    .menu li{
+        margin-bottom:2px;
+        padding: 3px 3px 3px 15px;
+        float:left;
+        width:150px;
+        text-align:right;
+        margin-right:15px;
+        font-weight: bold;    
+    }
+
+
+    .block1{
+        width:100%;
+        height: 100px; 
+        line-height:100px;
+    }
+	.email{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+        line-height: 20px;
+        position: relative;
+        top: 30px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+	.hotline{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+        line-height: 20px;
+        position: relative;
+        top: -70px;
+        right: 30px;
+        bottom: 40px;
+        left: 600px;
+    }
+	.open{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+        line-height: 20px;
+        position: relative;
+        top: -170px;
+        right: 30px;
+        bottom: 40px;
+        left: 1050px;
+    }
+    .block2{
+        width:100%;
+        height: 100px; 
+    }
+    .block3{
+        width:100%;
+        height: 450px; 
+        line-height:100px;
+        text-align:center;
+    }
+	.khieunaicam{
+        width: 100%;
+        height: 100px;
+        font-size: 50px;
+        font-weight: bold;
+		color:#F60;
+        position: relative;
+		text-align:justify;
+        top: 110px;
+        right: 30px;
+        bottom: 40px;
+        left: 560px;
+    }
+    .block4{
+        width:100%;
+        height: 750px; 
+    }
+	.par1{
+        width: 100%;
+        height: 100px;
+        font-size: 40px;
+        font-weight: bold;
+		color:#F60;
+        position: relative;
+		text-align:justify;
+        top: 20px;
+        right: 30px;
+        bottom: 40px;
+        left: 50px;
+    }
+	.par2{
+        width: 100%;
+        height: 100px;
+        font-size: 20px;
+        position: relative;
+		text-align:justify;
+        top: 20px;
+        right: 30px;
+        bottom: 40px;
+        left: 50px;
+    }
+	.khung{
+        width: 300PX;
+        height: 500px;
+		position:relative;
+        background-color:#fef9d0;
+        top: -80px;
+        right: 30px;
+        bottom: 40px;
+        left: 1220px;
+    }
+	.thu{
+        width: 300PX;
+        height: 500px;
+		position:relative;
+        top: -400px;
+        right: 30px;
+        bottom: 40px;
+        left: 1010px;
+    }
+	
+
+	.block11{
+        width: 100%;
+        height: 500px;
+         background-color:  #fef9d0;
+		
+    }
+	 
+	 
+	 .footer1{
+        width: 100%;
+        height: 100px;
+		color:#000;
+		font-weight:bold;
+        font-size: 30px;
+        line-height: 30px;
+        position: relative;
+        top: 90px;
+		left: 50px;
+        
+    }
+	 .footer2{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+        line-height: 30px;
+		font-weight:bold;
+        position: relative;
+        top: -7px;
+		left: 520px;
+        
+    }
+	
+	.footer3{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+        line-height: 30px;
+		font-weight:bold;
+        position: relative;
+        top: -107px;
+		left: 750px;
+        
+    }
+
+    .footer4{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+		font-weight:bold;
+        line-height: 30px;
+        position: relative;
+        top: -207px;
+		left: 1000px;
+        
+    }
+	 .footer5{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -150px;
+		left: 50px;
+        
+    }
+	.footer6{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -370px;
+		left: 520px;
+        
+    }
+    .footer6 a{
+        text-decoration: none;
+        color: #000;
+
+
+    }
+    .footer7{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -470px;
+		left: 750px;
+        
+    }
+    .footer7 a{
+        text-decoration: none;
+        color: #000;
+
+
+
+    }
+    .footer8{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -570px;
+		left: 1000px;
+        
+    }
+
+
+
+
+

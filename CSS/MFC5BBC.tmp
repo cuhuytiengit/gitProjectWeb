@@ -1,0 +1,381 @@
+
+    *{
+        margin:0px;
+        padding:0px;
+    }
+    .clr{
+        clear:both;
+    }
+    .block {
+       width:100%;
+       height: 100px; 
+       line-height:100px;
+       text-align:center;
+       
+    }
+    .block1{
+        width:100%;
+        height: 650px;
+        line-height: 20px;
+     
+       
+    }
+    .doan1 {
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+		line-height:30px;
+        position: relative;
+        top: -250px;
+        right: 30px;
+        bottom: 40px;
+        left: 690px;
+    }
+    .doan2{
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+		line-height:30px;
+        position: relative;
+        top: -60px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+    }
+
+    .doan3{
+
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+		line-height:30px;
+        position: relative;
+        top: -450px;
+        right: 30px;
+        bottom: 40px;
+        left: 1000px;
+    }
+  
+  
+    .box{
+		top: 20px;
+		left:150PX;
+		position:absolute;
+	  }
+
+    .boxA{
+       background-color: #fef9d0;
+        
+    }
+    .boxB{
+       background-image:url(file:///D|/codewebPROJECT/IMG/Untitled-2.jpg );
+
+    }
+    .boxC{
+       background-image:url(file:///D|/codewebPROJECT/IMG/Untitled-2.jpg);
+    }
+    .boxD{
+        background-image:url(file:///D|/codewebPROJECT/IMG/Untitled-2.jpg);
+     }
+     .boxE{
+        background-image:url(file:///D|/codewebPROJECT/IMG/Untitled-2.jpg);
+     }
+ 
+    .menu {
+        list-style:none;
+        margin : -2px;
+        display:inline-block;
+        *display : inline;
+        
+    }
+    .block1  div1{
+        margin-top: 30px;
+    }
+    .menu li{
+        margin-bottom:2px;
+        padding: 3px 3px 3px 15px;
+        float:left;
+        width:150px;
+        text-align:right;
+        margin-right:15px;
+        font-weight: bold;    
+    }
+	
+	
+	 .block2{
+        width:100%;
+        height: 750px;
+        line-height: 20px;
+     
+       
+    }
+    .tieude1{
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 30px;
+        position: relative;
+        top: 70px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+
+    .image1{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 50px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+    .image2{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 140px;
+        right: 30px;
+        bottom: 40px;
+        left: 450px;
+    }
+    .image3{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 210px;
+        right: 30px;
+        bottom: 40px;
+        left: 530px;
+    }
+	.par1{
+		 width: 100%;
+        height: 100px;
+        position: relative;
+		font-size:24px;
+        top: -280px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+		
+		
+	}
+	.par2{
+		 width: 100%;
+        height: 100px;
+        position: relative;
+		font-size:24px;
+        top: -280px;
+        right: 30px;
+        bottom: 40px;
+        left: 700px;
+		
+		
+	}
+
+	
+	
+	 .block3{
+        width:100%;
+        height: 750px;
+        line-height: 20px;
+     
+       
+    }
+	.tieude2{
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 30px;
+        position: relative;
+        top: 70px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+    .image4{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: -20px;
+        right: 30px;
+        bottom: 40px;
+        left: 400px;
+    }
+    .image5{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 60px;
+        right: 30px;
+        bottom: 40px;
+        left: 650px;
+    }
+    .image6{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 110px;
+        right: 30px;
+        bottom: 40px;
+        left: 500px;
+    }
+	
+	 .block4{
+        width:100%;
+        height: 750px;
+        line-height: 20px;
+       
+    }
+    .tieude3{
+        width: 100%;
+        height: 100px;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 30px;
+        position: relative;
+        top: 70px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+    .chitiet3{
+        width: 100%;
+        height: 100px;
+        font-size: 15px;
+        line-height: 30px;
+        position: relative;
+        top: 30px;
+        right: 30px;
+        bottom: 40px;
+        left: 200px;
+    }
+    .image7{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: -20px;
+        right: 30px;
+        bottom: 40px;
+        left: 400px;
+    }
+    .image8{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        top: 150px;
+        right: 30px;
+        bottom: 40px;
+        left: 490px;
+    }
+
+
+
+
+	.block11{
+        width: 100%;
+        height: 500px;
+         background-color:  #fef9d0;
+		
+    }
+	 .footer1{
+        width: 100%;
+        height: 100px;
+		color:#000;
+		font-weight:bold;
+        font-size: 30px;
+        line-height: 30px;
+        position: relative;
+        top: 90px;
+		left: 50px;
+        
+    }
+	 .footer2{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+        line-height: 30px;
+		font-weight:bold;
+        position: relative;
+        top: -7px;
+		left: 520px;
+        
+    }
+	
+	.footer3{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+        line-height: 30px;
+		font-weight:bold;
+        position: relative;
+        top: -107px;
+		left: 750px;
+        
+    }
+
+    .footer4{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 20px;
+		font-weight:bold;
+        line-height: 30px;
+        position: relative;
+        top: -207px;
+		left: 1000px;
+        
+    }
+	 .footer5{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -150px;
+		left: 50px;
+        
+    }
+	.footer6{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -370px;
+		left: 520px;
+        
+    }
+    .footer7{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -470px;
+		left: 750px;
+        
+    }
+    .footer8{
+        width: 100%;
+        height: 100px;
+		color:#000;
+        font-size: 22px;
+        line-height: 30px;
+        position: relative;
+        top: -570px;
+		left: 1000px;
+        
+    }
+
+
+
+
+
